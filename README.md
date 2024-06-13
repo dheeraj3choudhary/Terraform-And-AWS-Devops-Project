@@ -38,7 +38,7 @@
 
 # ✍ Terraform DevOps Project On AWS Cloud Blog Series
 **Click On link to open Github Code**
-### 1. [Build AWS Web Application Layer Using Terraform](https://www.dheeraj3choudhary.com/build-aws-web-application-layer-with-terraform-infra-as-code/)
+### 1. [Build AWS Webteir Using Terraform](https://www.dheeraj3choudhary.com/build-aws-webteir-with-terraform-infra-as-code/)
 ### 2. [Upcoming]()
 
 # 👨‍💻 Git Repo Code Library 👨‍💻
