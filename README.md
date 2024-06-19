@@ -44,7 +44,7 @@
 # 👨‍💻 Git Repo Code Library 👨‍💻
 **Click On link to open Github Code**
 ### 1. [Build AWS Web Application Layer Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/AWS_WebApplication_Tier_Project)
-### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/python_app_ecs_ptoject)
+### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/python_app_ecs_project)
 
 <div align="center">
 
