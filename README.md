@@ -33,18 +33,21 @@
 # 👁‍🗨👁‍🗨 Deploy on AWS Using Terraform Youtube Series 📽
 **Click On link to open YouTube video**
 
-### 📽 [Build AWS Web Application Layer Using Terraform | DevOps Project](https://youtu.be/M1qVScFHj3A)
-### 📽 [Deploy Serverless Python Flask Web App On AWS ECS Farget Using Terraform| DevOps Project](https://youtu.be/_tHj9R8WsHo)
+### 📽 [Build AWS Web Application Layer Using Terraform](https://youtu.be/M1qVScFHj3A)
+### 📽 [Deploy Serverless Python Flask Web App On AWS ECS Farget Using Terraform](https://youtu.be/_tHj9R8WsHo)
+### 📽 [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://youtu.be/3MFh9AZICmA)
 
 # ✍ Terraform DevOps Project On AWS Cloud Blog Series
-**Click On link to open Github Code**
+**Click On link to open Blog**
 ### 1. [Build AWS Webteir Using Terraform](https://www.dheeraj3choudhary.com/build-aws-webteir-with-terraform-infra-as-code/)
 ### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://www.dheeraj3choudhary.com/deploying-a-serverless-python-flask-app-on-aws-ecs-fargate-using-terraform)
+### 3. [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://www.dheeraj3choudhary.com/automating-aws-infrastructure-with-terraform-functions/)
 
 # 👨‍💻 Git Repo Code Library 👨‍💻
 **Click On link to open Github Code**
 ### 1. [Build AWS Web Application Layer Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/AWS_WebApplication_Tier_Project)
 ### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/python_app_ecs_project)
+### 3. [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/Infra_automation_with_terraform_functions)
 
 <div align="center">
 
