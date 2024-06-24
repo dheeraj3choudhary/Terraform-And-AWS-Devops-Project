@@ -2,7 +2,7 @@
 variable "region" {
   description = "The AWS region to deploy resources in"
   type        = string
-  default     = "us-east-2"
+  default     = "us-west-2"
 }
 
 # Data source to get available AWS availability zones
