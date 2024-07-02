@@ -1,0 +1,31 @@
+POST Method Lambda function prompt
+Generate an AWS Lambda function in Python that puts an item into a DynamoDB table. The table name should be retrieved from an environment variable called TABLE_TABLE_NAME. The function should accept an HTTP POST request via API Gateway, with the item id specified as a path parameter and item details (name, price, category) provided in the request body. The function should handle the following:
+- Retrieve the table name from the environment variable.
+- Parse the id from the path parameters.
+- Parse the item details (name, price, category) from the request body.
+- Convert the price to a Decimal type to handle DynamoDB's number type.
+- Put the item into the DynamoDB table.
+- Return a 200 status code if the item is updated, or a 201 status code if the item is created.
+- Return a 500 status code with an error message if any exception occurs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Get Method Lambda function prompt
+
+Generate an AWS Lambda function in Python that deletes an item from a DynamoDB table. The table name should be retrieved from an environment variable called TABLE_TABLE_NAME. The function should accept an HTTP DELETE request via API Gateway, with the item id specified as a path parameter. The function should handle the following:
+- Retrieve the table name from the environment variable.
+- Parse the id from the path parameters and convert it to an integer.
+- Delete the item from the DynamoDB table using the id as the key.
+- Return a 200 status code with a message if the item is deleted successfully.
+- Return a 404 status code with a message if the item is not found.
+- Return a 500 status code with an error message if any exception occurs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Delete Method Lambda function prompt
+
+Generate an AWS Lambda function in Python that deletes an item from a DynamoDB table. The table name should be retrieved from an environment variable called TABLE_TABLE_NAME. The function should accept an HTTP DELETE request via API Gateway, with the item id specified as a path parameter. The function should handle the following:
+- Retrieve the table name from the environment variable.
+- Parse the id from the path parameters and convert it to an integer.
+- Delete the item from the DynamoDB table using the id as the key.
+- Return a 200 status code with a message if the item is deleted successfully.
+- Return a 404 status code with a message if the item is not found.
+- Return a 500 status code with an error message if any exception occurs.
