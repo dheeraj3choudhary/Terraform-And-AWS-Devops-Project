@@ -48,6 +48,8 @@
 ### 1. [Build AWS Web Application Layer Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/AWS_WebApplication_Tier_Project)
 ### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/python_app_ecs_project)
 ### 3. [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/Infra_automation_with_terraform_functions)
+### 4. [Build AWS Serverless App With Application Composer & Amazon Q](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/Build_AWS_Serverless_App)
+
 
 <div align="center">
 
