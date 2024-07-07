@@ -36,12 +36,14 @@
 ### 📽 [Build AWS Web Application Layer Using Terraform](https://youtu.be/M1qVScFHj3A)
 ### 📽 [Deploy Serverless Python Flask Web App On AWS ECS Farget Using Terraform](https://youtu.be/_tHj9R8WsHo)
 ### 📽 [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://youtu.be/3MFh9AZICmA)
+### 📽 [Automate S3 Data ETL Pipeline With AWS Glue to Read and Write to S3 Using Terraform](https://youtu.be/rISNU8ZmG64)
 
 # ✍ Terraform DevOps Project On AWS Cloud Blog Series
 **Click On link to open Blog**
 ### 1. [Build AWS Webteir Using Terraform](https://www.dheeraj3choudhary.com/build-aws-webteir-with-terraform-infra-as-code/)
 ### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://www.dheeraj3choudhary.com/deploying-a-serverless-python-flask-app-on-aws-ecs-fargate-using-terraform)
 ### 3. [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://www.dheeraj3choudhary.com/automating-aws-infrastructure-with-terraform-functions/)
+### 4. [Automate S3 Data ETL Pipelines With AWS Glue Using Terraform](https://www.dheeraj3choudhary.com/automate-s3-data-etl-pipelines-with-aws-glue-using-terraform/)
 
 # 👨‍💻 Git Repo Code Library 👨‍💻
 **Click On link to open Github Code**
@@ -49,6 +51,7 @@
 ### 2. [Deploying a Serverless Python Flask App on AWS ECS Fargate Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/python_app_ecs_project)
 ### 3. [Automate AWS Infrastructure Provisioning With Terraform Meta-Arguments & Funtions](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/Infra_automation_with_terraform_functions)
 ### 4. [Build AWS Serverless App With Application Composer & Amazon Q](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/Build_AWS_Serverless_App)
+### 5. [Automate S3 Data ETL Pipelines With AWS Glue Using Terraform](https://github.com/dheeraj3choudhary/Terraform-And-AWS-Devops-Project/tree/main/s3_read_write_etl_glue_pipeline)
 
 
 <div align="center">
