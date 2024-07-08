@@ -1,4 +1,4 @@
 provider "aws" {
-  region                   = "us-west-2"
-  shared_credentials_files = ["<Path to your AWS Credentials File>"]
+  region                   = var.aws_region
+  shared_credentials_files = ["C:/Users/DHEERA~1/.aws/credentials"]
 }
